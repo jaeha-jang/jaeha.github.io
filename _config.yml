@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+이름 :장재하
+# 짧은 바이오 또는 설명 (헤더에 표시
 
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+설명   : 오픈 소프트웨어
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
